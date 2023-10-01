@@ -9,7 +9,7 @@ Console selection (Switch or 3DS) for updating and management.
 Downloading of base files and applications from GitHub repositories or direct links.
 Support for various types of downloads, including Git repositories and direct file URLs.
 The ability to select and individually install applications.
-Integration with Wiidatabase databases for patches and additional resources.
+Integration with https://wiidatabase.de/ databases for patches and additional resources.
 
 Use Case:
 ====
